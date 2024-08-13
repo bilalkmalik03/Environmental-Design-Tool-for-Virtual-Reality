@@ -74,5 +74,5 @@ Move Objects: Point at an object with the VR controller and use the grip button 
 Resize Objects: Once object is selected is, click on the menu and a pop up will appear where you can resize
 
 
-**Screenshots**
+**Videos**
 
